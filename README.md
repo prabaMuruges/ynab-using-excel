@@ -35,3 +35,10 @@ There was one best feature in YNAB which is outstanding and creates a real purpo
 * Inspite of all these nice features and their neat (kind-of) UX, I have decided to stop using it. Reason being I felt it's little expensive (*around **$11** per month*) :D 
 
 * I wanted to continue with this approach and tried to replicate the same in excel. Wanted to share this to get any suggestions or may be useful to someone else :D
+
+## Steps
+* Download [ynab_in_excel.xlsx](https://github.com/prabaMuruges/ynab-using-excel/blob/master/ynab_in_excel.xlsx)
+* Change the categories as you want
+* Create transactions
+* Check once the values are grouped under *budget* correctly.
+* You are set to track transactions!
